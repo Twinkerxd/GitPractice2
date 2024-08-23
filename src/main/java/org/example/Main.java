@@ -1,6 +1,8 @@
 package org.example;
 
 public class Main {
+    // comment
+
     public static int a = 5;
 
     // comment new branch
